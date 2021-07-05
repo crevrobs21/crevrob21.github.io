@@ -12,7 +12,7 @@ My name is Christian and I am currently a Computer Science undergraduate student
 
 ## About My Mentor
 
-Professor Kevin J Liu currently teaches at Michigan State University where he leads a Compuational Biology Lab. Hus lab creates new computational methodologies for efficient and accurate comparative genomic analyses – especially in the context of complex evolutionary scenarios – and then connects the resulting insights to phenotype and function. The end goal of their big-data-driven approach is to generate hypotheses that result in new biological and biomedical discoveries.
+Professor Kevin J Liu currently teaches at Michigan State University where he leads a Compuational Biology Lab. His lab creates new computational methodologies for efficient and accurate comparative genomic analyses – especially in the context of complex evolutionary scenarios – and then connects the resulting insights to phenotype and function. The end goal of their big-data-driven approach is to generate hypotheses that result in new biological and biomedical discoveries.
 
 ## About My Project
 
