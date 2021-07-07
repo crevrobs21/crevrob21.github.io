@@ -17,9 +17,9 @@ website: https://www.cse.msu.edu/~kjl/academic.html
 
 ## About My Project
 
-Throughout my research I have been working with new OS as well as phylogenetic sequencing models. Most of my research was developed ad-hoc as I struggled to acquiant myself with other Operating Systems and software that was not adaptable on 64-bit newer mac OS.
+Throughout my research I have been working with new OS as well as phylogenetic sequencing models. Most of my research was developed ad-hoc as I struggled to familiarize myself with other Operating Systems and software that was not adaptable on 64-bit newer mac OS. I would say the bulk of my experiments thus far have related to birth-death models and testing evolutionary statistical models on them to see where species may have had common ancestors or diverged species based off of distributions like Poission. Most of the experiments have been highly theoretical and almost harder for me to interpret as I am not ver knwoledgeable in the realm of gene sequencing and evolutionary tree models but I am slowly but surely familiarizing myself with this all. 
 
-[My Final Report](files/finalreport.pdf)
+
 
 ## My Blog
 
