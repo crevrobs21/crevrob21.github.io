@@ -42,3 +42,4 @@ Week Eight: During week eight I tried one more iteration of the full experiment.
 
 ## Final Report
 Link: https://docs.google.com/document/d/1vUIM_-5sP3Zh9dKQ9CPLb4pS2QLFjbeZ3Y9EG2o65Ps/edit?usp=sharing
+crevrobs.github.io/files/DREU Summer 2021.pdf
